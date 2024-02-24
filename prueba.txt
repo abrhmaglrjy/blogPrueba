@@ -2,6 +2,6 @@ Archicod de Prueba
 
 Sección para hacer cambios:
 
-Número: 45346
-Palabra: hola
-Oración: Nosotros caminamos por la senda del mañana.
+Número: 34355
+Palabra: adios
+Oración: Nosotros caminamos por la senda de la noche.
