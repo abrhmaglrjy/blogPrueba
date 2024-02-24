@@ -1,0 +1,7 @@
+Archicod de Prueba
+
+Sección para hacer cambios:
+
+Número: 45346
+Palabra: hola
+Oración: Nosotros caminamos por la senda del mañana.
