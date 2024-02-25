@@ -3,6 +3,7 @@ body{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 16px;
     color: black;
+    background: rgb(70, 70, 224);
     margin: 0;
     padding: 0;
 }
@@ -16,6 +17,19 @@ body{
     color: burlywood;
 }
 
+.cabecera .logo
+{
+    width: 20px;
+    vertical-align: middle;
+}
+
+.cabecera .tagline
+{
+    padding: 0 0 0 1em;
+    font-weight: normal;
+    font-size: 0.8em;
+}
+
 .container h1{
     font-size: 20px;
 }
@@ -23,4 +37,10 @@ body{
 .cabecera
 {
     background-color: blanchedalmond;
+}
+
+.post
+{
+    background: wheat;
+    padding: 1em;
 }
